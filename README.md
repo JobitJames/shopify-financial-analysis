@@ -13,8 +13,8 @@ A complete equity research project on Shopify Inc. (NASDAQ: SHOP), built April 2
 ## Key Results
 
 - **WACC:** 11.9% | **Intrinsic Value:** $51.71/share | **Market Price:** $114.84
-- **Monte Carlo (30-day):** Mean forecast $126.25 — *Actual May 2026: ~$122* ✅
-- **FB Prophet (90-day):** Forecast $132.27 — *Actual Aug 2026: $145+* ✅
+- **Monte Carlo (30-day):** Mean forecast $126.25 — *Actual May 2026: ~$122* 
+- **FB Prophet (90-day):** Forecast $132.27 — *Actual Aug 2026: $145+* 
 - **Investment Signal:** BUY — both models confirmed bullish
 
 ## Tools Used
